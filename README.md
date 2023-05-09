@@ -5,7 +5,9 @@
 
 **Langugae:** python
 
-**Packages:** skit-learn, huggingface-hub (and datasets) 
+**Packages:** sckit-learn, huggingface-hub (and datasets)
+
+**Dataset:** [Openlegaldata](https://huggingface.co/LennardZuendorf/legalis/tree/main)
 
 <h2>🗳️ Status:</h2>
 
