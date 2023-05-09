@@ -1,6 +1,10 @@
 <h1>legalis</h1>
 <h4>legalis is a projected trying to predict german lower court case outcomes based on openlegaldata court cases, utalising skit-learn and random forests.</h4>
 
+<h2>🔗 Links:</h2>
+
+**[Model on Huggingface](https://huggingface.co/LennardZuendorf/legalis)**
+
 <h2>🏗️ Tech Stack:</h2>
 
 **Langugae:** python
