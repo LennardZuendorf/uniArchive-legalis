@@ -4,3 +4,6 @@
 [submodule "model/model"]
 	path = model/model
 	url = https://huggingface.co/LennardZuendorf/legalis
+[submodule "app/app"]
+	path = app/app
+	url = https://huggingface.co/spaces/LennardZuendorf/legalis
