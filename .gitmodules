@@ -1,3 +1,6 @@
 [submodule "data/dataset"]
 	path = data/dataset
 	url = https://huggingface.co/datasets/LennardZuendorf/legalis
+[submodule "model/model"]
+	path = model/model
+	url = https://huggingface.co/LennardZuendorf/legalis
