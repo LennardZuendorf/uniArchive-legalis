@@ -1,6 +1,0 @@
-[submodule "app/app"]
-	path = app/app
-	url = https://huggingface.co/spaces/LennardZuendorf/legalis
-[submodule "model/model-BERT"]
-	path = model/model-BERT
-	url = https://huggingface.co/LennardZuendorf/legalis-BERT
