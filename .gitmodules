@@ -1,0 +1,3 @@
+[submodule "legalis"]
+	path = legalis
+	url = https://huggingface.co/spaces/LennardZuendorf/legalis
