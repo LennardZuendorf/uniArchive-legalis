@@ -17,7 +17,7 @@
 
 **Noteable Libaries:** 🤗Datasets, 🤗Evaluate, scikit-learn, 🤗Transformers
 
-**Base Dataset:** [https://huggingface.co/datasets/LennardZuendorf/Dynamically-Generated-Hate-Speech-Dataset](https://huggingface.co/datasets/LennardZuendorf/openlegaldata-bulk-data))
+**Base Dataset:** [OpenLegalData](https://huggingface.co/datasets/LennardZuendorf/openlegaldata-bulk-data))
 
 <h2>👨‍💻 Author and Credits:</h2>
 
