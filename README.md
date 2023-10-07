@@ -8,9 +8,11 @@
 
 ## 🔗 Links:
 
-**[Interactive Model on Huggingface](https://huggingface.co/spaces/LennardZuendorf/legalis)**
+**[Interactive Model Demos on Huggingface](https://huggingface.co/spaces/LennardZuendorf/legalis)**
 
 **[BERT Model on Huggingface](https://huggingface.co/LennardZuendorf/legalis-BERT)**
+
+**[random forest classifier on Huggingface](https://huggingface.co/LennardZuendorf/legalis-scikit)**
 
 **[Labeled Dataset on Huggingface](https://huggingface.co/datasets/LennardZuendorf/legalis)**
 
