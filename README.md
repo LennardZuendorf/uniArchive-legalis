@@ -6,13 +6,15 @@
 > ℹ️
 > This is an archive of tasks done as part of my studies.
 
+##### Ultimately I was able to predict the outcome of 60% of the court cases. But to be fair, the methods are not completely scientifically corrent.
+
 ## 🔗 Links:
 
 **[Interactive Model Demos on Huggingface](https://huggingface.co/spaces/LennardZuendorf/legalis)**
 
 **[BERT Model on Huggingface](https://huggingface.co/LennardZuendorf/legalis-BERT)**
 
-**[random forest classifier on Huggingface](https://huggingface.co/LennardZuendorf/legalis-scikit)**
+**[Random Forest Classifier on Huggingface](https://huggingface.co/LennardZuendorf/legalis-scikit)**
 
 **[Labeled Dataset on Huggingface](https://huggingface.co/datasets/LennardZuendorf/legalis)**
 
